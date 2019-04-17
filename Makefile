@@ -6,7 +6,7 @@ BINARYUSER = user
 OBJCOMMON = utils.o data.o pcb.o queue.o log.o
 OBJSOSS = oss.o
 OBJSUSER = user.o
-HEADERS = config.h utils.h data.h log.h
+HEADERS = config.h utils.h data.h log.h.
 
 all: $(BINARYOSS) $(BINARYUSER)
 
