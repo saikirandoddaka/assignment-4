@@ -1,0 +1,13 @@
+Makefile
+config.h - constants
+data.c, data.h - datatypes
+log.c, log.h - logging
+oss.c - oss implementation
+pcb.c, pcb.h - dealing with processes
+queue.c, queue.h - process queue
+user.c - user process implementation
+utils.c, utils.h - extra common functions
+
+Just run make to compile.
+
+Configured using config.h. Edit, recompile (make clean all), and run ./oss again.

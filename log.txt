@@ -1,0 +1,841 @@
+[  0:     0] OSS: Generating process with PID 0 and putting it in queue 0
+[  0: 10425] OSS: Dispatching process with PID 0 from queue 0
+[  0: 10425] OSS: Receiving that process 0 ran for 10000 nanoseconds
+[  0: 10425] OSS: Putting process with PID 0 into queue 0
+[  0: 48334] OSS: Dispatching process with PID 0 from queue 0
+[  0: 48334] OSS: Receiving that process 0 ran for 10000 nanoseconds
+[  0: 48334] OSS: Putting process with PID 0 into queue 0
+[  0:139254] OSS: Dispatching process with PID 0 from queue 0
+[  0:139254] OSS: Receiving that process 0 ran for 10000 nanoseconds
+[  0:139254] OSS: Putting process with PID 0 into queue 0
+[  0:169180] OSS: Dispatching process with PID 0 from queue 0
+[  0:169180] OSS: Receiving that process 0 ran for 10000 nanoseconds
+[  0:169180] OSS: Putting process with PID 0 into queue 0
+[  0:173887] OSS: Dispatching process with PID 0 from queue 0
+[  0:173887] OSS: Receiving that process 0 ran for 400 nanoseconds
+[  0:173887] OSS: Not using its entire time quantum
+[  0:173887] OSS: Putting process with PID 0 into queue 0
+[  0:191128] OSS: Dispatching process with PID 0 from queue 0
+[  0:191128] OSS: Receiving that process 0 ran for 10000 nanoseconds
+[  0:191128] OSS: Putting process with PID 0 into queue 0
+[  0:220681] OSS: Dispatching process with PID 0 from queue 0
+[  0:220681] OSS: Receiving that process 0 ran for 4200 nanoseconds
+[  0:220681] OSS: Not using its entire time quantum
+[  0:220681] OSS: Putting process with PID 0 into queue 0
+[  0:268874] OSS: Dispatching process with PID 0 from queue 0
+[  0:268874] OSS: Receiving that process 0 ran for 7600 nanoseconds
+[  0:268874] OSS: Not using its entire time quantum
+[  0:268874] OSS: Putting process with PID 0 into queue 0
+[  0:276293] OSS: Dispatching process with PID 0 from queue 0
+[  0:276293] OSS: Receiving that process 0 ran for 10000 nanoseconds
+[  0:276293] OSS: Putting process with PID 0 into queue 0
+[  0:291485] OSS: Dispatching process with PID 0 from queue 0
+[  0:291485] OSS: Receiving that process 0 ran for 10000 nanoseconds
+[  0:291485] OSS: Putting process with PID 0 into queue 0
+[  0:352856] OSS: Dispatching process with PID 0 from queue 0
+[  0:352856] OSS: Receiving that process 0 ran for 2800 nanoseconds
+[  0:352856] OSS: Terminating process with PID 0
+[  0:352856] OSS: No processes to run
+[  0:700000] OSS: Generating process with PID 0 and putting it in queue 0
+[  0:759059] OSS: Dispatching process with PID 0 from queue 0
+[  0:759059] OSS: Receiving that process 0 ran for 800 nanoseconds
+[  0:759059] OSS: Blocking process with PID 0 for 2:505
+[  0:759059] OSS: No processes to run
+[  2:500000] OSS: Generating process with PID 1 and putting it in queue 1
+[  2:516437] OSS: Dispatching process with PID 1 from queue 1
+[  2:516437] OSS: Receiving that process 1 ran for 300 nanoseconds
+[  2:516437] OSS: Terminating process with PID 1
+[  2:516437] OSS: No processes to run
+[  2:759564] OSS: Unblocking process with PID 0 and putting it into queue 0
+[  2:855869] OSS: Dispatching process with PID 0 from queue 0
+[  2:855869] OSS: Receiving that process 0 ran for 10000 nanoseconds
+[  2:855869] OSS: Putting process with PID 0 into queue 0
+[  2:938293] OSS: Dispatching process with PID 0 from queue 0
+[  2:938293] OSS: Receiving that process 0 ran for 10000 nanoseconds
+[  2:938293] OSS: Putting process with PID 0 into queue 0
+[  2:978872] OSS: Dispatching process with PID 0 from queue 0
+[  2:978872] OSS: Receiving that process 0 ran for 900 nanoseconds
+[  2:978872] OSS: Not using its entire time quantum
+[  2:978872] OSS: Putting process with PID 0 into queue 0
+[  3: 57020] OSS: Dispatching process with PID 0 from queue 0
+[  3: 57020] OSS: Receiving that process 0 ran for 10000 nanoseconds
+[  3: 57020] OSS: Putting process with PID 0 into queue 0
+[  3: 65489] OSS: Dispatching process with PID 0 from queue 0
+[  3: 65489] OSS: Receiving that process 0 ran for 7100 nanoseconds
+[  3: 65489] OSS: Not using its entire time quantum
+[  3: 65489] OSS: Putting process with PID 0 into queue 0
+[  3: 87864] OSS: Dispatching process with PID 0 from queue 0
+[  3: 87864] OSS: Receiving that process 0 ran for 10000 nanoseconds
+[  3: 87864] OSS: Putting process with PID 0 into queue 0
+[  3:147788] OSS: Dispatching process with PID 0 from queue 0
+[  3:147788] OSS: Receiving that process 0 ran for 1000 nanoseconds
+[  3:147788] OSS: Not using its entire time quantum
+[  3:147788] OSS: Putting process with PID 0 into queue 0
+[  3:187310] OSS: Dispatching process with PID 0 from queue 0
+[  3:187310] OSS: Receiving that process 0 ran for 10000 nanoseconds
+[  3:187310] OSS: Putting process with PID 0 into queue 0
+[  3:264361] OSS: Dispatching process with PID 0 from queue 0
+[  3:264361] OSS: Receiving that process 0 ran for 5400 nanoseconds
+[  3:264361] OSS: Not using its entire time quantum
+[  3:264361] OSS: Putting process with PID 0 into queue 0
+[  3:287773] OSS: Dispatching process with PID 0 from queue 0
+[  3:287773] OSS: Receiving that process 0 ran for 4800 nanoseconds
+[  3:287773] OSS: Not using its entire time quantum
+[  3:287773] OSS: Putting process with PID 0 into queue 0
+[  3:349713] OSS: Dispatching process with PID 0 from queue 0
+[  3:349713] OSS: Receiving that process 0 ran for 10000 nanoseconds
+[  3:349713] OSS: Putting process with PID 0 into queue 0
+[  3:445247] OSS: Dispatching process with PID 0 from queue 0
+[  3:445247] OSS: Receiving that process 0 ran for 3900 nanoseconds
+[  3:445247] OSS: Blocking process with PID 0 for 0:408
+[  3:445247] OSS: Generating process with PID 1 and putting it in queue 0
+[  3:539354] OSS: Dispatching process with PID 1 from queue 0
+[  3:539354] OSS: Receiving that process 1 ran for 7300 nanoseconds
+[  3:539354] OSS: Blocking process with PID 1 for 3:535
+[  3:539354] OSS: Unblocking process with PID 0 and putting it into queue 0
+[  3:629299] OSS: Dispatching process with PID 0 from queue 0
+[  3:629299] OSS: Receiving that process 0 ran for 6900 nanoseconds
+[  3:629299] OSS: Not using its entire time quantum
+[  3:629299] OSS: Putting process with PID 0 into queue 0
+[  3:712305] OSS: Dispatching process with PID 0 from queue 0
+[  3:712305] OSS: Receiving that process 0 ran for 5600 nanoseconds
+[  3:712305] OSS: Terminating process with PID 0
+[  3:712305] OSS: No processes to run
+[  3:740000] OSS: Generating process with PID 0 and putting it in queue 1
+[  3:740247] OSS: Dispatching process with PID 0 from queue 1
+[  3:740247] OSS: Receiving that process 0 ran for 4400 nanoseconds
+[  3:740247] OSS: Not using its entire time quantum
+[  3:740247] OSS: Putting process with PID 0 into queue 2
+[  3:781980] OSS: Dispatching process with PID 0 from queue 2
+[  3:781980] OSS: Receiving that process 0 ran for 2500 nanoseconds
+[  3:781980] OSS: Putting process with PID 0 into queue 3
+[  3:812962] OSS: Dispatching process with PID 0 from queue 3
+[  3:812962] OSS: Receiving that process 0 ran for 1250 nanoseconds
+[  3:812962] OSS: Putting process with PID 0 into queue 3
+[  3:908677] OSS: Dispatching process with PID 0 from queue 3
+[  3:908677] OSS: Receiving that process 0 ran for 1250 nanoseconds
+[  3:908677] OSS: Putting process with PID 0 into queue 3
+[  3:953750] OSS: Dispatching process with PID 0 from queue 3
+[  3:953750] OSS: Receiving that process 0 ran for 787 nanoseconds
+[  3:953750] OSS: Not using its entire time quantum
+[  3:953750] OSS: Putting process with PID 0 into queue 3
+[  4: 34251] OSS: Dispatching process with PID 0 from queue 3
+[  4: 34251] OSS: Receiving that process 0 ran for 1250 nanoseconds
+[  4: 34251] OSS: Putting process with PID 0 into queue 3
+[  4: 38927] OSS: Dispatching process with PID 0 from queue 3
+[  4: 38927] OSS: Receiving that process 0 ran for 1150 nanoseconds
+[  4: 38927] OSS: Not using its entire time quantum
+[  4: 38927] OSS: Putting process with PID 0 into queue 3
+[  4:119286] OSS: Dispatching process with PID 0 from queue 3
+[  4:119286] OSS: Receiving that process 0 ran for 1250 nanoseconds
+[  4:119286] OSS: Putting process with PID 0 into queue 3
+[  4:147094] OSS: Dispatching process with PID 0 from queue 3
+[  4:147094] OSS: Receiving that process 0 ran for 437 nanoseconds
+[  4:147094] OSS: Not using its entire time quantum
+[  4:147094] OSS: Putting process with PID 0 into queue 3
+[  4:211961] OSS: Dispatching process with PID 0 from queue 3
+[  4:211961] OSS: Receiving that process 0 ran for 175 nanoseconds
+[  4:211961] OSS: Terminating process with PID 0
+[  4:211961] OSS: No processes to run
+[  4:500000] OSS: Generating process with PID 0 and putting it in queue 1
+[  4:561161] OSS: Dispatching process with PID 0 from queue 1
+[  4:561161] OSS: Receiving that process 0 ran for 5000 nanoseconds
+[  4:561161] OSS: Putting process with PID 0 into queue 2
+[  4:596186] OSS: Dispatching process with PID 0 from queue 2
+[  4:596186] OSS: Receiving that process 0 ran for 2500 nanoseconds
+[  4:596186] OSS: Putting process with PID 0 into queue 3
+[  4:669058] OSS: Dispatching process with PID 0 from queue 3
+[  4:669058] OSS: Receiving that process 0 ran for 1250 nanoseconds
+[  4:669058] OSS: Putting process with PID 0 into queue 3
+[  4:696614] OSS: Dispatching process with PID 0 from queue 3
+[  4:696614] OSS: Receiving that process 0 ran for 1250 nanoseconds
+[  4:696614] OSS: Putting process with PID 0 into queue 3
+[  4:728256] OSS: Dispatching process with PID 0 from queue 3
+[  4:728256] OSS: Receiving that process 0 ran for 1250 nanoseconds
+[  4:728256] OSS: Putting process with PID 0 into queue 3
+[  4:811651] OSS: Dispatching process with PID 0 from queue 3
+[  4:811651] OSS: Receiving that process 0 ran for 637 nanoseconds
+[  4:811651] OSS: Not using its entire time quantum
+[  4:811651] OSS: Putting process with PID 0 into queue 3
+[  4:887279] OSS: Dispatching process with PID 0 from queue 3
+[  4:887279] OSS: Receiving that process 0 ran for 1250 nanoseconds
+[  4:887279] OSS: Putting process with PID 0 into queue 3
+[  4:958343] OSS: Dispatching process with PID 0 from queue 3
+[  4:958343] OSS: Receiving that process 0 ran for 687 nanoseconds
+[  4:958343] OSS: Not using its entire time quantum
+[  4:958343] OSS: Putting process with PID 0 into queue 3
+[  5: 18788] OSS: Dispatching process with PID 0 from queue 3
+[  5: 18788] OSS: Receiving that process 0 ran for 1162 nanoseconds
+[  5: 18788] OSS: Blocking process with PID 0 for 0:419
+[  5: 18788] OSS: No processes to run
+[  5: 19207] OSS: Unblocking process with PID 0 and putting it into queue 1
+[  5:106406] OSS: Dispatching process with PID 0 from queue 1
+[  5:106406] OSS: Receiving that process 0 ran for 1600 nanoseconds
+[  5:106406] OSS: Blocking process with PID 0 for 4:97
+[  5:106406] OSS: No processes to run
+[  5:220000] OSS: Generating process with PID 2 and putting it in queue 1
+[  5:259313] OSS: Dispatching process with PID 2 from queue 1
+[  5:259313] OSS: Receiving that process 2 ran for 500 nanoseconds
+[  5:259313] OSS: Not using its entire time quantum
+[  5:259313] OSS: Putting process with PID 2 into queue 2
+[  5:259313] OSS: Generating process with PID 3 and putting it in queue 0
+[  5:288560] OSS: Dispatching process with PID 3 from queue 0
+[  5:288560] OSS: Receiving that process 3 ran for 10000 nanoseconds
+[  5:288560] OSS: Putting process with PID 3 into queue 0
+[  5:296655] OSS: Dispatching process with PID 3 from queue 0
+[  5:296655] OSS: Receiving that process 3 ran for 3500 nanoseconds
+[  5:296655] OSS: Blocking process with PID 3 for 5:34
+[  5:347169] OSS: Dispatching process with PID 2 from queue 2
+[  5:347169] OSS: Receiving that process 2 ran for 1825 nanoseconds
+[  5:347169] OSS: Terminating process with PID 2
+[  5:347169] OSS: No processes to run
+[  6:539889] OSS: Unblocking process with PID 1 and putting it into queue 0
+[  6:551935] OSS: Dispatching process with PID 1 from queue 0
+[  6:551935] OSS: Receiving that process 1 ran for 1200 nanoseconds
+[  6:551935] OSS: Blocking process with PID 1 for 2:995
+[  6:551935] OSS: No processes to run
+[  6:560000] OSS: Generating process with PID 2 and putting it in queue 1
+[  6:591166] OSS: Dispatching process with PID 2 from queue 1
+[  6:591166] OSS: Receiving that process 2 ran for 5000 nanoseconds
+[  6:591166] OSS: Putting process with PID 2 into queue 2
+[  6:671519] OSS: Dispatching process with PID 2 from queue 2
+[  6:671519] OSS: Receiving that process 2 ran for 225 nanoseconds
+[  6:671519] OSS: Blocking process with PID 2 for 2:993
+[  6:671519] OSS: No processes to run
+[  6:860000] OSS: Generating process with PID 4 and putting it in queue 0
+[  6:944930] OSS: Dispatching process with PID 4 from queue 0
+[  6:944930] OSS: Receiving that process 4 ran for 10000 nanoseconds
+[  6:944930] OSS: Putting process with PID 4 into queue 0
+[  6:950756] OSS: Dispatching process with PID 4 from queue 0
+[  6:950756] OSS: Receiving that process 4 ran for 3200 nanoseconds
+[  6:950756] OSS: Blocking process with PID 4 for 0:478
+[  6:950756] OSS: No processes to run
+[  6:951234] OSS: Unblocking process with PID 4 and putting it into queue 0
+[  6:978867] OSS: Dispatching process with PID 4 from queue 0
+[  6:978867] OSS: Receiving that process 4 ran for 9300 nanoseconds
+[  6:978867] OSS: Blocking process with PID 4 for 0:819
+[  6:978867] OSS: No processes to run
+[  6:979686] OSS: Unblocking process with PID 4 and putting it into queue 0
+[  7: 17740] OSS: Dispatching process with PID 4 from queue 0
+[  7: 17740] OSS: Receiving that process 4 ran for 10000 nanoseconds
+[  7: 17740] OSS: Putting process with PID 4 into queue 0
+[  7: 87820] OSS: Dispatching process with PID 4 from queue 0
+[  7: 87820] OSS: Receiving that process 4 ran for 10000 nanoseconds
+[  7: 87820] OSS: Putting process with PID 4 into queue 0
+[  7:147736] OSS: Dispatching process with PID 4 from queue 0
+[  7:147736] OSS: Receiving that process 4 ran for 10000 nanoseconds
+[  7:147736] OSS: Putting process with PID 4 into queue 0
+[  7:246841] OSS: Dispatching process with PID 4 from queue 0
+[  7:246841] OSS: Receiving that process 4 ran for 10000 nanoseconds
+[  7:246841] OSS: Putting process with PID 4 into queue 0
+[  7:340094] OSS: Dispatching process with PID 4 from queue 0
+[  7:340094] OSS: Receiving that process 4 ran for 10000 nanoseconds
+[  7:340094] OSS: Putting process with PID 4 into queue 0
+[  7:361129] OSS: Dispatching process with PID 4 from queue 0
+[  7:361129] OSS: Receiving that process 4 ran for 10000 nanoseconds
+[  7:361129] OSS: Putting process with PID 4 into queue 0
+[  7:376037] OSS: Dispatching process with PID 4 from queue 0
+[  7:376037] OSS: Receiving that process 4 ran for 6400 nanoseconds
+[  7:376037] OSS: Blocking process with PID 4 for 0:876
+[  7:376037] OSS: No processes to run
+[  7:376913] OSS: Unblocking process with PID 4 and putting it into queue 0
+[  7:401817] OSS: Dispatching process with PID 4 from queue 0
+[  7:401817] OSS: Receiving that process 4 ran for 5700 nanoseconds
+[  7:401817] OSS: Not using its entire time quantum
+[  7:401817] OSS: Putting process with PID 4 into queue 0
+[  7:406246] OSS: Dispatching process with PID 4 from queue 0
+[  7:406246] OSS: Receiving that process 4 ran for 10000 nanoseconds
+[  7:406246] OSS: Putting process with PID 4 into queue 0
+[  7:496683] OSS: Dispatching process with PID 4 from queue 0
+[  7:496683] OSS: Receiving that process 4 ran for 10000 nanoseconds
+[  7:496683] OSS: Putting process with PID 4 into queue 0
+[  7:580790] OSS: Dispatching process with PID 4 from queue 0
+[  7:580790] OSS: Receiving that process 4 ran for 10000 nanoseconds
+[  7:580790] OSS: Putting process with PID 4 into queue 0
+[  7:633813] OSS: Dispatching process with PID 4 from queue 0
+[  7:633813] OSS: Receiving that process 4 ran for 1000 nanoseconds
+[  7:633813] OSS: Blocking process with PID 4 for 1:800
+[  7:633813] OSS: No processes to run
+[  8: 59999] OSS: Generating process with PID 5 and putting it in queue 0
+[  8:145397] OSS: Dispatching process with PID 5 from queue 0
+[  8:145397] OSS: Receiving that process 5 ran for 7200 nanoseconds
+[  8:145397] OSS: Terminating process with PID 5
+[  8:145397] OSS: No processes to run
+[  8:552930] OSS: Unblocking process with PID 1 and putting it into queue 0
+[  8:558125] OSS: Dispatching process with PID 1 from queue 0
+[  8:558125] OSS: Receiving that process 1 ran for 10000 nanoseconds
+[  8:558125] OSS: Putting process with PID 1 into queue 0
+[  8:576720] OSS: Dispatching process with PID 1 from queue 0
+[  8:576720] OSS: Receiving that process 1 ran for 9300 nanoseconds
+[  8:576720] OSS: Terminating process with PID 1
+[  8:576720] OSS: No processes to run
+[  8:634613] OSS: Unblocking process with PID 4 and putting it into queue 0
+[  8:658353] OSS: Dispatching process with PID 4 from queue 0
+[  8:658353] OSS: Receiving that process 4 ran for 7700 nanoseconds
+[  8:658353] OSS: Not using its entire time quantum
+[  8:658353] OSS: Putting process with PID 4 into queue 0
+[  8:692686] OSS: Dispatching process with PID 4 from queue 0
+[  8:692686] OSS: Receiving that process 4 ran for 7500 nanoseconds
+[  8:692686] OSS: Blocking process with PID 4 for 2:495
+[  8:692686] OSS: Unblocking process with PID 2 and putting it into queue 1
+[  8:719286] OSS: Dispatching process with PID 2 from queue 1
+[  8:719286] OSS: Receiving that process 2 ran for 5000 nanoseconds
+[  8:719286] OSS: Putting process with PID 2 into queue 2
+[  8:793430] OSS: Dispatching process with PID 2 from queue 2
+[  8:793430] OSS: Receiving that process 2 ran for 2500 nanoseconds
+[  8:793430] OSS: Putting process with PID 2 into queue 3
+[  8:827947] OSS: Dispatching process with PID 2 from queue 3
+[  8:827947] OSS: Receiving that process 2 ran for 1250 nanoseconds
+[  8:827947] OSS: Putting process with PID 2 into queue 3
+[  8:839175] OSS: Dispatching process with PID 2 from queue 3
+[  8:839175] OSS: Receiving that process 2 ran for 1250 nanoseconds
+[  8:839175] OSS: Putting process with PID 2 into queue 3
+[  8:893714] OSS: Dispatching process with PID 2 from queue 3
+[  8:893714] OSS: Receiving that process 2 ran for 1250 nanoseconds
+[  8:893714] OSS: Putting process with PID 2 into queue 3
+[  8:947546] OSS: Dispatching process with PID 2 from queue 3
+[  8:947546] OSS: Receiving that process 2 ran for 775 nanoseconds
+[  8:947546] OSS: Not using its entire time quantum
+[  8:947546] OSS: Putting process with PID 2 into queue 3
+[  9: 39027] OSS: Dispatching process with PID 2 from queue 3
+[  9: 39027] OSS: Receiving that process 2 ran for 550 nanoseconds
+[  9: 39027] OSS: Not using its entire time quantum
+[  9: 39027] OSS: Putting process with PID 2 into queue 3
+[  9:118934] OSS: Dispatching process with PID 2 from queue 3
+[  9:118934] OSS: Receiving that process 2 ran for 150 nanoseconds
+[  9:118934] OSS: Terminating process with PID 2
+[  9:118934] OSS: Unblocking process with PID 0 and putting it into queue 1
+[  9:172591] OSS: Dispatching process with PID 0 from queue 1
+[  9:172591] OSS: Receiving that process 0 ran for 5000 nanoseconds
+[  9:172591] OSS: Putting process with PID 0 into queue 2
+[  9:237249] OSS: Dispatching process with PID 0 from queue 2
+[  9:237249] OSS: Receiving that process 0 ran for 2500 nanoseconds
+[  9:237249] OSS: Putting process with PID 0 into queue 3
+[  9:322882] OSS: Dispatching process with PID 0 from queue 3
+[  9:322882] OSS: Receiving that process 0 ran for 462 nanoseconds
+[  9:322882] OSS: Blocking process with PID 0 for 0:558
+[  9:322882] OSS: No processes to run
+[  9:323440] OSS: Unblocking process with PID 0 and putting it into queue 1
+[  9:404620] OSS: Dispatching process with PID 0 from queue 1
+[  9:404620] OSS: Receiving that process 0 ran for 1150 nanoseconds
+[  9:404620] OSS: Not using its entire time quantum
+[  9:404620] OSS: Putting process with PID 0 into queue 2
+[  9:407321] OSS: Dispatching process with PID 0 from queue 2
+[  9:407321] OSS: Receiving that process 0 ran for 2500 nanoseconds
+[  9:407321] OSS: Putting process with PID 0 into queue 3
+[  9:451281] OSS: Dispatching process with PID 0 from queue 3
+[  9:451281] OSS: Receiving that process 0 ran for 87 nanoseconds
+[  9:451281] OSS: Not using its entire time quantum
+[  9:451281] OSS: Putting process with PID 0 into queue 3
+[  9:480614] OSS: Dispatching process with PID 0 from queue 3
+[  9:480614] OSS: Receiving that process 0 ran for 1250 nanoseconds
+[  9:480614] OSS: Putting process with PID 0 into queue 3
+[  9:570568] OSS: Dispatching process with PID 0 from queue 3
+[  9:570568] OSS: Receiving that process 0 ran for 500 nanoseconds
+[  9:570568] OSS: Not using its entire time quantum
+[  9:570568] OSS: Putting process with PID 0 into queue 3
+[  9:607780] OSS: Dispatching process with PID 0 from queue 3
+[  9:607780] OSS: Receiving that process 0 ran for 875 nanoseconds
+[  9:607780] OSS: Not using its entire time quantum
+[  9:607780] OSS: Putting process with PID 0 into queue 3
+[  9:658048] OSS: Dispatching process with PID 0 from queue 3
+[  9:658048] OSS: Receiving that process 0 ran for 1000 nanoseconds
+[  9:658048] OSS: Not using its entire time quantum
+[  9:658048] OSS: Putting process with PID 0 into queue 3
+[  9:662910] OSS: Dispatching process with PID 0 from queue 3
+[  9:662910] OSS: Receiving that process 0 ran for 200 nanoseconds
+[  9:662910] OSS: Blocking process with PID 0 for 1:41
+[  9:662910] OSS: No processes to run
+[  9:919999] OSS: Generating process with PID 1 and putting it in queue 0
+[ 10:  3446] OSS: Dispatching process with PID 1 from queue 0
+[ 10:  3446] OSS: Receiving that process 1 ran for 9500 nanoseconds
+[ 10:  3446] OSS: Terminating process with PID 1
+[ 10:  3446] OSS: No processes to run
+[ 10:296689] OSS: Unblocking process with PID 3 and putting it into queue 0
+[ 10:342812] OSS: Dispatching process with PID 3 from queue 0
+[ 10:342812] OSS: Receiving that process 3 ran for 7400 nanoseconds
+[ 10:342812] OSS: Blocking process with PID 3 for 4:62
+[ 10:342812] OSS: No processes to run
+[ 10:459999] OSS: Generating process with PID 1 and putting it in queue 0
+[ 10:499617] OSS: Dispatching process with PID 1 from queue 0
+[ 10:499617] OSS: Receiving that process 1 ran for 10000 nanoseconds
+[ 10:499617] OSS: Putting process with PID 1 into queue 0
+[ 10:569030] OSS: Dispatching process with PID 1 from queue 0
+[ 10:569030] OSS: Receiving that process 1 ran for 10000 nanoseconds
+[ 10:569030] OSS: Putting process with PID 1 into queue 0
+[ 10:623434] OSS: Dispatching process with PID 1 from queue 0
+[ 10:623434] OSS: Receiving that process 1 ran for 10000 nanoseconds
+[ 10:623434] OSS: Putting process with PID 1 into queue 0
+[ 10:681547] OSS: Dispatching process with PID 1 from queue 0
+[ 10:681547] OSS: Receiving that process 1 ran for 10000 nanoseconds
+[ 10:681547] OSS: Putting process with PID 1 into queue 0
+[ 10:681547] OSS: Unblocking process with PID 0 and putting it into queue 1
+[ 10:774601] OSS: Dispatching process with PID 1 from queue 0
+[ 10:774601] OSS: Receiving that process 1 ran for 10000 nanoseconds
+[ 10:774601] OSS: Putting process with PID 1 into queue 0
+[ 10:774601] OSS: Unblocking process with PID 4 and putting it into queue 0
+[ 10:851496] OSS: Dispatching process with PID 1 from queue 0
+[ 10:851496] OSS: Receiving that process 1 ran for 10000 nanoseconds
+[ 10:851496] OSS: Putting process with PID 1 into queue 0
+[ 10:924347] OSS: Dispatching process with PID 4 from queue 0
+[ 10:924347] OSS: Receiving that process 4 ran for 10000 nanoseconds
+[ 10:924347] OSS: Putting process with PID 4 into queue 0
+[ 10:979782] OSS: Dispatching process with PID 1 from queue 0
+[ 10:979782] OSS: Receiving that process 1 ran for 10000 nanoseconds
+[ 10:979782] OSS: Putting process with PID 1 into queue 0
+[ 11: 79333] OSS: Dispatching process with PID 4 from queue 0
+[ 11: 79333] OSS: Receiving that process 4 ran for 10000 nanoseconds
+[ 11: 79333] OSS: Putting process with PID 4 into queue 0
+[ 11:163312] OSS: Dispatching process with PID 1 from queue 0
+[ 11:163312] OSS: Receiving that process 1 ran for 200 nanoseconds
+[ 11:163312] OSS: Not using its entire time quantum
+[ 11:163312] OSS: Putting process with PID 1 into queue 0
+[ 11:173285] OSS: Dispatching process with PID 4 from queue 0
+[ 11:173285] OSS: Receiving that process 4 ran for 10000 nanoseconds
+[ 11:173285] OSS: Putting process with PID 4 into queue 0
+[ 11:226667] OSS: Dispatching process with PID 1 from queue 0
+[ 11:226667] OSS: Receiving that process 1 ran for 10000 nanoseconds
+[ 11:226667] OSS: Putting process with PID 1 into queue 0
+[ 11:290375] OSS: Dispatching process with PID 4 from queue 0
+[ 11:290375] OSS: Receiving that process 4 ran for 10000 nanoseconds
+[ 11:290375] OSS: Putting process with PID 4 into queue 0
+[ 11:368403] OSS: Dispatching process with PID 1 from queue 0
+[ 11:368403] OSS: Receiving that process 1 ran for 900 nanoseconds
+[ 11:368403] OSS: Not using its entire time quantum
+[ 11:368403] OSS: Putting process with PID 1 into queue 0
+[ 11:375431] OSS: Dispatching process with PID 4 from queue 0
+[ 11:375431] OSS: Receiving that process 4 ran for 4000 nanoseconds
+[ 11:375431] OSS: Not using its entire time quantum
+[ 11:375431] OSS: Putting process with PID 4 into queue 0
+[ 11:403796] OSS: Dispatching process with PID 1 from queue 0
+[ 11:403796] OSS: Receiving that process 1 ran for 9100 nanoseconds
+[ 11:403796] OSS: Blocking process with PID 1 for 2:671
+[ 11:467457] OSS: Dispatching process with PID 4 from queue 0
+[ 11:467457] OSS: Receiving that process 4 ran for 5000 nanoseconds
+[ 11:467457] OSS: Not using its entire time quantum
+[ 11:467457] OSS: Putting process with PID 4 into queue 0
+[ 11:543803] OSS: Dispatching process with PID 4 from queue 0
+[ 11:543803] OSS: Receiving that process 4 ran for 10000 nanoseconds
+[ 11:543803] OSS: Putting process with PID 4 into queue 0
+[ 11:563018] OSS: Dispatching process with PID 4 from queue 0
+[ 11:563018] OSS: Receiving that process 4 ran for 10000 nanoseconds
+[ 11:563018] OSS: Putting process with PID 4 into queue 0
+[ 11:570638] OSS: Dispatching process with PID 4 from queue 0
+[ 11:570638] OSS: Receiving that process 4 ran for 8600 nanoseconds
+[ 11:570638] OSS: Blocking process with PID 4 for 4:543
+[ 11:576316] OSS: Dispatching process with PID 0 from queue 1
+[ 11:576316] OSS: Receiving that process 0 ran for 4400 nanoseconds
+[ 11:576316] OSS: Not using its entire time quantum
+[ 11:576316] OSS: Putting process with PID 0 into queue 2
+[ 11:585484] OSS: Dispatching process with PID 0 from queue 2
+[ 11:585484] OSS: Receiving that process 0 ran for 400 nanoseconds
+[ 11:585484] OSS: Not using its entire time quantum
+[ 11:585484] OSS: Putting process with PID 0 into queue 3
+[ 11:630217] OSS: Dispatching process with PID 0 from queue 3
+[ 11:630217] OSS: Receiving that process 0 ran for 1250 nanoseconds
+[ 11:630217] OSS: Putting process with PID 0 into queue 3
+[ 11:686063] OSS: Dispatching process with PID 0 from queue 3
+[ 11:686063] OSS: Receiving that process 0 ran for 1250 nanoseconds
+[ 11:686063] OSS: Putting process with PID 0 into queue 3
+[ 11:688241] OSS: Dispatching process with PID 0 from queue 3
+[ 11:688241] OSS: Receiving that process 0 ran for 1250 nanoseconds
+[ 11:688241] OSS: Putting process with PID 0 into queue 3
+[ 11:783129] OSS: Dispatching process with PID 0 from queue 3
+[ 11:783129] OSS: Receiving that process 0 ran for 375 nanoseconds
+[ 11:783129] OSS: Not using its entire time quantum
+[ 11:783129] OSS: Putting process with PID 0 into queue 3
+[ 11:869968] OSS: Dispatching process with PID 0 from queue 3
+[ 11:869968] OSS: Receiving that process 0 ran for 237 nanoseconds
+[ 11:869968] OSS: Not using its entire time quantum
+[ 11:869968] OSS: Putting process with PID 0 into queue 3
+[ 11:943741] OSS: Dispatching process with PID 0 from queue 3
+[ 11:943741] OSS: Receiving that process 0 ran for 1250 nanoseconds
+[ 11:943741] OSS: Putting process with PID 0 into queue 3
+[ 11:984741] OSS: Dispatching process with PID 0 from queue 3
+[ 11:984741] OSS: Receiving that process 0 ran for 725 nanoseconds
+[ 11:984741] OSS: Blocking process with PID 0 for 0:547
+[ 11:984741] OSS: No processes to run
+[ 11:985288] OSS: Unblocking process with PID 0 and putting it into queue 1
+[ 12: 56153] OSS: Dispatching process with PID 0 from queue 1
+[ 12: 56153] OSS: Receiving that process 0 ran for 4950 nanoseconds
+[ 12: 56153] OSS: Not using its entire time quantum
+[ 12: 56153] OSS: Putting process with PID 0 into queue 2
+[ 12: 79244] OSS: Dispatching process with PID 0 from queue 2
+[ 12: 79244] OSS: Receiving that process 0 ran for 2500 nanoseconds
+[ 12: 79244] OSS: Putting process with PID 0 into queue 3
+[ 12:148010] OSS: Dispatching process with PID 0 from queue 3
+[ 12:148010] OSS: Receiving that process 0 ran for 1250 nanoseconds
+[ 12:148010] OSS: Putting process with PID 0 into queue 3
+[ 12:148010] OSS: Generating process with PID 2 and putting it in queue 1
+[ 12:174889] OSS: Dispatching process with PID 2 from queue 1
+[ 12:174889] OSS: Receiving that process 2 ran for 2300 nanoseconds
+[ 12:174889] OSS: Not using its entire time quantum
+[ 12:174889] OSS: Putting process with PID 2 into queue 2
+[ 12:196447] OSS: Dispatching process with PID 2 from queue 2
+[ 12:196447] OSS: Receiving that process 2 ran for 775 nanoseconds
+[ 12:196447] OSS: Blocking process with PID 2 for 5:702
+[ 12:227223] OSS: Dispatching process with PID 0 from queue 3
+[ 12:227223] OSS: Receiving that process 0 ran for 500 nanoseconds
+[ 12:227223] OSS: Not using its entire time quantum
+[ 12:227223] OSS: Putting process with PID 0 into queue 3
+[ 12:326853] OSS: Dispatching process with PID 0 from queue 3
+[ 12:326853] OSS: Receiving that process 0 ran for 562 nanoseconds
+[ 12:326853] OSS: Not using its entire time quantum
+[ 12:326853] OSS: Putting process with PID 0 into queue 3
+[ 12:403747] OSS: Dispatching process with PID 0 from queue 3
+[ 12:403747] OSS: Receiving that process 0 ran for 1250 nanoseconds
+[ 12:403747] OSS: Putting process with PID 0 into queue 3
+[ 12:434073] OSS: Dispatching process with PID 0 from queue 3
+[ 12:434073] OSS: Receiving that process 0 ran for 1175 nanoseconds
+[ 12:434073] OSS: Blocking process with PID 0 for 1:119
+[ 12:434073] OSS: No processes to run
+[ 13:404467] OSS: Unblocking process with PID 1 and putting it into queue 0
+[ 13:488086] OSS: Dispatching process with PID 1 from queue 0
+[ 13:488086] OSS: Receiving that process 1 ran for 300 nanoseconds
+[ 13:488086] OSS: Not using its entire time quantum
+[ 13:488086] OSS: Putting process with PID 1 into queue 0
+[ 13:488086] OSS: Unblocking process with PID 0 and putting it into queue 1
+[ 13:488096] OSS: Generating process with PID 5 and putting it in queue 0
+[ 13:523660] OSS: Dispatching process with PID 1 from queue 0
+[ 13:523660] OSS: Receiving that process 1 ran for 7000 nanoseconds
+[ 13:523660] OSS: Not using its entire time quantum
+[ 13:523660] OSS: Putting process with PID 1 into queue 0
+[ 13:576703] OSS: Dispatching process with PID 5 from queue 0
+[ 13:576703] OSS: Receiving that process 5 ran for 10000 nanoseconds
+[ 13:576703] OSS: Putting process with PID 5 into queue 0
+[ 13:655487] OSS: Dispatching process with PID 1 from queue 0
+[ 13:655487] OSS: Receiving that process 1 ran for 10000 nanoseconds
+[ 13:655487] OSS: Putting process with PID 1 into queue 0
+[ 13:719316] OSS: Dispatching process with PID 5 from queue 0
+[ 13:719316] OSS: Receiving that process 5 ran for 10000 nanoseconds
+[ 13:719316] OSS: Putting process with PID 5 into queue 0
+[ 13:724267] OSS: Dispatching process with PID 1 from queue 0
+[ 13:724267] OSS: Receiving that process 1 ran for 10000 nanoseconds
+[ 13:724267] OSS: Putting process with PID 1 into queue 0
+[ 13:779396] OSS: Dispatching process with PID 5 from queue 0
+[ 13:779396] OSS: Receiving that process 5 ran for 6500 nanoseconds
+[ 13:779396] OSS: Blocking process with PID 5 for 0:16
+[ 13:862340] OSS: Dispatching process with PID 1 from queue 0
+[ 13:862340] OSS: Receiving that process 1 ran for 10000 nanoseconds
+[ 13:862340] OSS: Putting process with PID 1 into queue 0
+[ 13:862340] OSS: Unblocking process with PID 5 and putting it into queue 0
+[ 13:874821] OSS: Dispatching process with PID 1 from queue 0
+[ 13:874821] OSS: Receiving that process 1 ran for 10000 nanoseconds
+[ 13:874821] OSS: Putting process with PID 1 into queue 0
+[ 13:935528] OSS: Dispatching process with PID 5 from queue 0
+[ 13:935528] OSS: Receiving that process 5 ran for 300 nanoseconds
+[ 13:935528] OSS: Blocking process with PID 5 for 5:941
+[ 14: 15789] OSS: Dispatching process with PID 1 from queue 0
+[ 14: 15789] OSS: Receiving that process 1 ran for 10000 nanoseconds
+[ 14: 15789] OSS: Putting process with PID 1 into queue 0
+[ 14: 61141] OSS: Dispatching process with PID 1 from queue 0
+[ 14: 61141] OSS: Receiving that process 1 ran for 9600 nanoseconds
+[ 14: 61141] OSS: Not using its entire time quantum
+[ 14: 61141] OSS: Putting process with PID 1 into queue 0
+[ 14: 65941] OSS: Dispatching process with PID 1 from queue 0
+[ 14: 65941] OSS: Receiving that process 1 ran for 10000 nanoseconds
+[ 14: 65941] OSS: Putting process with PID 1 into queue 0
+[ 14:136528] OSS: Dispatching process with PID 1 from queue 0
+[ 14:136528] OSS: Receiving that process 1 ran for 10000 nanoseconds
+[ 14:136528] OSS: Putting process with PID 1 into queue 0
+[ 14:176767] OSS: Dispatching process with PID 1 from queue 0
+[ 14:176767] OSS: Receiving that process 1 ran for 7800 nanoseconds
+[ 14:176767] OSS: Not using its entire time quantum
+[ 14:176767] OSS: Putting process with PID 1 into queue 0
+[ 14:268307] OSS: Dispatching process with PID 1 from queue 0
+[ 14:268307] OSS: Receiving that process 1 ran for 10000 nanoseconds
+[ 14:268307] OSS: Putting process with PID 1 into queue 0
+[ 14:312667] OSS: Dispatching process with PID 1 from queue 0
+[ 14:312667] OSS: Receiving that process 1 ran for 10000 nanoseconds
+[ 14:312667] OSS: Putting process with PID 1 into queue 0
+[ 14:382054] OSS: Dispatching process with PID 1 from queue 0
+[ 14:382054] OSS: Receiving that process 1 ran for 6200 nanoseconds
+[ 14:382054] OSS: Not using its entire time quantum
+[ 14:382054] OSS: Putting process with PID 1 into queue 0
+[ 14:382054] OSS: Unblocking process with PID 3 and putting it into queue 0
+[ 14:444458] OSS: Dispatching process with PID 1 from queue 0
+[ 14:444458] OSS: Receiving that process 1 ran for 10000 nanoseconds
+[ 14:444458] OSS: Putting process with PID 1 into queue 0
+[ 14:511809] OSS: Dispatching process with PID 3 from queue 0
+[ 14:511809] OSS: Receiving that process 3 ran for 9000 nanoseconds
+[ 14:511809] OSS: Not using its entire time quantum
+[ 14:511809] OSS: Putting process with PID 3 into queue 0
+[ 14:549962] OSS: Dispatching process with PID 1 from queue 0
+[ 14:549962] OSS: Receiving that process 1 ran for 10000 nanoseconds
+[ 14:549962] OSS: Putting process with PID 1 into queue 0
+[ 14:640771] OSS: Dispatching process with PID 3 from queue 0
+[ 14:640771] OSS: Receiving that process 3 ran for 10000 nanoseconds
+[ 14:640771] OSS: Putting process with PID 3 into queue 0
+[ 14:662013] OSS: Dispatching process with PID 1 from queue 0
+[ 14:662013] OSS: Receiving that process 1 ran for 10000 nanoseconds
+[ 14:662013] OSS: Putting process with PID 1 into queue 0
+[ 14:726945] OSS: Dispatching process with PID 3 from queue 0
+[ 14:726945] OSS: Receiving that process 3 ran for 10000 nanoseconds
+[ 14:726945] OSS: Putting process with PID 3 into queue 0
+[ 14:726945] OSS: Generating process with PID 6 and putting it in queue 1
+[ 14:779754] OSS: Dispatching process with PID 1 from queue 0
+[ 14:779754] OSS: Receiving that process 1 ran for 9000 nanoseconds
+[ 14:779754] OSS: Not using its entire time quantum
+[ 14:779754] OSS: Putting process with PID 1 into queue 0
+[ 14:857163] OSS: Dispatching process with PID 3 from queue 0
+[ 14:857163] OSS: Receiving that process 3 ran for 4600 nanoseconds
+[ 14:857163] OSS: Terminating process with PID 3
+[ 14:927556] OSS: Dispatching process with PID 1 from queue 0
+[ 14:927556] OSS: Receiving that process 1 ran for 10000 nanoseconds
+[ 14:927556] OSS: Putting process with PID 1 into queue 0
+[ 14:963973] OSS: Dispatching process with PID 1 from queue 0
+[ 14:963973] OSS: Receiving that process 1 ran for 9200 nanoseconds
+[ 14:963973] OSS: Blocking process with PID 1 for 5:260
+[ 15: 16396] OSS: Dispatching process with PID 0 from queue 1
+[ 15: 16396] OSS: Receiving that process 0 ran for 4650 nanoseconds
+[ 15: 16396] OSS: Blocking process with PID 0 for 3:281
+[ 15: 70397] OSS: Dispatching process with PID 6 from queue 1
+[ 15: 70397] OSS: Receiving that process 6 ran for 5000 nanoseconds
+[ 15: 70397] OSS: Putting process with PID 6 into queue 2
+[ 15:142278] OSS: Dispatching process with PID 6 from queue 2
+[ 15:142278] OSS: Receiving that process 6 ran for 2500 nanoseconds
+[ 15:142278] OSS: Putting process with PID 6 into queue 3
+[ 15:235892] OSS: Dispatching process with PID 6 from queue 3
+[ 15:235892] OSS: Receiving that process 6 ran for 737 nanoseconds
+[ 15:235892] OSS: Not using its entire time quantum
+[ 15:235892] OSS: Putting process with PID 6 into queue 3
+[ 15:268676] OSS: Dispatching process with PID 6 from queue 3
+[ 15:268676] OSS: Receiving that process 6 ran for 1250 nanoseconds
+[ 15:268676] OSS: Putting process with PID 6 into queue 3
+[ 15:292634] OSS: Dispatching process with PID 6 from queue 3
+[ 15:292634] OSS: Receiving that process 6 ran for 1012 nanoseconds
+[ 15:292634] OSS: Not using its entire time quantum
+[ 15:292634] OSS: Putting process with PID 6 into queue 3
+[ 15:391099] OSS: Dispatching process with PID 6 from queue 3
+[ 15:391099] OSS: Receiving that process 6 ran for 1250 nanoseconds
+[ 15:391099] OSS: Putting process with PID 6 into queue 3
+[ 15:478913] OSS: Dispatching process with PID 6 from queue 3
+[ 15:478913] OSS: Receiving that process 6 ran for 12 nanoseconds
+[ 15:478913] OSS: Not using its entire time quantum
+[ 15:478913] OSS: Putting process with PID 6 into queue 3
+[ 15:573963] OSS: Dispatching process with PID 6 from queue 3
+[ 15:573963] OSS: Receiving that process 6 ran for 1250 nanoseconds
+[ 15:573963] OSS: Putting process with PID 6 into queue 3
+[ 15:573963] OSS: Unblocking process with PID 4 and putting it into queue 0
+[ 15:584909] OSS: Dispatching process with PID 4 from queue 0
+[ 15:584909] OSS: Receiving that process 4 ran for 10000 nanoseconds
+[ 15:584909] OSS: Putting process with PID 4 into queue 0
+[ 15:621677] OSS: Dispatching process with PID 4 from queue 0
+[ 15:621677] OSS: Receiving that process 4 ran for 10000 nanoseconds
+[ 15:621677] OSS: Putting process with PID 4 into queue 0
+[ 15:685235] OSS: Dispatching process with PID 4 from queue 0
+[ 15:685235] OSS: Receiving that process 4 ran for 4700 nanoseconds
+[ 15:685235] OSS: Terminating process with PID 4
+[ 15:729671] OSS: Dispatching process with PID 6 from queue 3
+[ 15:729671] OSS: Receiving that process 6 ran for 1250 nanoseconds
+[ 15:729671] OSS: Putting process with PID 6 into queue 3
+[ 15:771140] OSS: Dispatching process with PID 6 from queue 3
+[ 15:771140] OSS: Receiving that process 6 ran for 1250 nanoseconds
+[ 15:771140] OSS: Putting process with PID 6 into queue 3
+[ 15:805285] OSS: Dispatching process with PID 6 from queue 3
+[ 15:805285] OSS: Receiving that process 6 ran for 1250 nanoseconds
+[ 15:805285] OSS: Putting process with PID 6 into queue 3
+[ 15:889861] OSS: Dispatching process with PID 6 from queue 3
+[ 15:889861] OSS: Receiving that process 6 ran for 737 nanoseconds
+[ 15:889861] OSS: Not using its entire time quantum
+[ 15:889861] OSS: Putting process with PID 6 into queue 3
+[ 15:922869] OSS: Dispatching process with PID 6 from queue 3
+[ 15:922869] OSS: Receiving that process 6 ran for 275 nanoseconds
+[ 15:922869] OSS: Not using its entire time quantum
+[ 15:922869] OSS: Putting process with PID 6 into queue 3
+[ 15:922869] OSS: Generating process with PID 3 and putting it in queue 1
+[ 16:  6419] OSS: Dispatching process with PID 3 from queue 1
+[ 16:  6419] OSS: Receiving that process 3 ran for 5000 nanoseconds
+[ 16:  6419] OSS: Putting process with PID 3 into queue 2
+[ 16: 40422] OSS: Dispatching process with PID 3 from queue 2
+[ 16: 40422] OSS: Receiving that process 3 ran for 1550 nanoseconds
+[ 16: 40422] OSS: Not using its entire time quantum
+[ 16: 40422] OSS: Putting process with PID 3 into queue 3
+[ 16:120685] OSS: Dispatching process with PID 6 from queue 3
+[ 16:120685] OSS: Receiving that process 6 ran for 375 nanoseconds
+[ 16:120685] OSS: Not using its entire time quantum
+[ 16:120685] OSS: Putting process with PID 6 into queue 3
+[ 16:195043] OSS: Dispatching process with PID 3 from queue 3
+[ 16:195043] OSS: Receiving that process 3 ran for 587 nanoseconds
+[ 16:195043] OSS: Blocking process with PID 3 for 4:438
+[ 16:250189] OSS: Dispatching process with PID 6 from queue 3
+[ 16:250189] OSS: Receiving that process 6 ran for 1250 nanoseconds
+[ 16:250189] OSS: Putting process with PID 6 into queue 3
+[ 16:283631] OSS: Dispatching process with PID 6 from queue 3
+[ 16:283631] OSS: Receiving that process 6 ran for 150 nanoseconds
+[ 16:283631] OSS: Blocking process with PID 6 for 5:100
+[ 16:283631] OSS: No processes to run
+[ 16:999998] OSS: Generating process with PID 4 and putting it in queue 0
+[ 17: 86150] OSS: Dispatching process with PID 4 from queue 0
+[ 17: 86150] OSS: Receiving that process 4 ran for 10000 nanoseconds
+[ 17: 86150] OSS: Putting process with PID 4 into queue 0
+[ 17:138431] OSS: Dispatching process with PID 4 from queue 0
+[ 17:138431] OSS: Receiving that process 4 ran for 200 nanoseconds
+[ 17:138431] OSS: Not using its entire time quantum
+[ 17:138431] OSS: Putting process with PID 4 into queue 0
+[ 17:204036] OSS: Dispatching process with PID 4 from queue 0
+[ 17:204036] OSS: Receiving that process 4 ran for 4700 nanoseconds
+[ 17:204036] OSS: Not using its entire time quantum
+[ 17:204036] OSS: Putting process with PID 4 into queue 0
+[ 17:204036] OSS: Unblocking process with PID 2 and putting it into queue 1
+[ 17:214862] OSS: Dispatching process with PID 4 from queue 0
+[ 17:214862] OSS: Receiving that process 4 ran for 9600 nanoseconds
+[ 17:214862] OSS: Not using its entire time quantum
+[ 17:214862] OSS: Putting process with PID 4 into queue 0
+[ 17:307715] OSS: Dispatching process with PID 4 from queue 0
+[ 17:307715] OSS: Receiving that process 4 ran for 10000 nanoseconds
+[ 17:307715] OSS: Putting process with PID 4 into queue 0
+[ 17:315568] OSS: Dispatching process with PID 4 from queue 0
+[ 17:315568] OSS: Receiving that process 4 ran for 10000 nanoseconds
+[ 17:315568] OSS: Putting process with PID 4 into queue 0
+[ 17:398166] OSS: Dispatching process with PID 4 from queue 0
+[ 17:398166] OSS: Receiving that process 4 ran for 10000 nanoseconds
+[ 17:398166] OSS: Putting process with PID 4 into queue 0
+[ 17:472880] OSS: Dispatching process with PID 4 from queue 0
+[ 17:472880] OSS: Receiving that process 4 ran for 10000 nanoseconds
+[ 17:472880] OSS: Putting process with PID 4 into queue 0
+[ 17:501666] OSS: Dispatching process with PID 4 from queue 0
+[ 17:501666] OSS: Receiving that process 4 ran for 8000 nanoseconds
+[ 17:501666] OSS: Terminating process with PID 4
+[ 17:596370] OSS: Dispatching process with PID 2 from queue 1
+[ 17:596370] OSS: Receiving that process 2 ran for 5000 nanoseconds
+[ 17:596370] OSS: Putting process with PID 2 into queue 2
+[ 17:669549] OSS: Dispatching process with PID 2 from queue 2
+[ 17:669549] OSS: Receiving that process 2 ran for 525 nanoseconds
+[ 17:669549] OSS: Not using its entire time quantum
+[ 17:669549] OSS: Putting process with PID 2 into queue 3
+[ 17:674396] OSS: Dispatching process with PID 2 from queue 3
+[ 17:674396] OSS: Receiving that process 2 ran for 300 nanoseconds
+[ 17:674396] OSS: Not using its entire time quantum
+[ 17:674396] OSS: Putting process with PID 2 into queue 3
+[ 17:752397] OSS: Dispatching process with PID 2 from queue 3
+[ 17:752397] OSS: Receiving that process 2 ran for 1250 nanoseconds
+[ 17:752397] OSS: Putting process with PID 2 into queue 3
+[ 17:824660] OSS: Dispatching process with PID 2 from queue 3
+[ 17:824660] OSS: Receiving that process 2 ran for 275 nanoseconds
+[ 17:824660] OSS: Terminating process with PID 2
+[ 17:824660] OSS: No processes to run
+[ 18: 16677] OSS: Unblocking process with PID 0 and putting it into queue 1
+[ 18: 58202] OSS: Dispatching process with PID 0 from queue 1
+[ 18: 58202] OSS: Receiving that process 0 ran for 2600 nanoseconds
+[ 18: 58202] OSS: Not using its entire time quantum
+[ 18: 58202] OSS: Putting process with PID 0 into queue 2
+[ 18: 99761] OSS: Dispatching process with PID 0 from queue 2
+[ 18: 99761] OSS: Receiving that process 0 ran for 1675 nanoseconds
+[ 18: 99761] OSS: Not using its entire time quantum
+[ 18: 99761] OSS: Putting process with PID 0 into queue 3
+[ 18:116459] OSS: Dispatching process with PID 0 from queue 3
+[ 18:116459] OSS: Receiving that process 0 ran for 1250 nanoseconds
+[ 18:116459] OSS: Putting process with PID 0 into queue 3
+[ 18:187591] OSS: Dispatching process with PID 0 from queue 3
+[ 18:187591] OSS: Receiving that process 0 ran for 412 nanoseconds
+[ 18:187591] OSS: Blocking process with PID 0 for 2:820
+[ 18:187591] OSS: No processes to run
+[ 18:239998] OSS: Generating process with PID 2 and putting it in queue 0
+[ 18:332286] OSS: Dispatching process with PID 2 from queue 0
+[ 18:332286] OSS: Receiving that process 2 ran for 7000 nanoseconds
+[ 18:332286] OSS: Not using its entire time quantum
+[ 18:332286] OSS: Putting process with PID 2 into queue 0
+[ 18:386294] OSS: Dispatching process with PID 2 from queue 0
+[ 18:386294] OSS: Receiving that process 2 ran for 10000 nanoseconds
+[ 18:386294] OSS: Putting process with PID 2 into queue 0
+[ 18:417926] OSS: Dispatching process with PID 2 from queue 0
+[ 18:417926] OSS: Receiving that process 2 ran for 2700 nanoseconds
+[ 18:417926] OSS: Not using its entire time quantum
+[ 18:417926] OSS: Putting process with PID 2 into queue 0
+[ 18:493763] OSS: Dispatching process with PID 2 from queue 0
+[ 18:493763] OSS: Receiving that process 2 ran for 10000 nanoseconds
+[ 18:493763] OSS: Putting process with PID 2 into queue 0
+[ 18:581674] OSS: Dispatching process with PID 2 from queue 0
+[ 18:581674] OSS: Receiving that process 2 ran for 10000 nanoseconds
+[ 18:581674] OSS: Putting process with PID 2 into queue 0
+[ 18:593568] OSS: Dispatching process with PID 2 from queue 0
+[ 18:593568] OSS: Receiving that process 2 ran for 10000 nanoseconds
+[ 18:593568] OSS: Putting process with PID 2 into queue 0
+[ 18:632011] OSS: Dispatching process with PID 2 from queue 0
+[ 18:632011] OSS: Receiving that process 2 ran for 10000 nanoseconds
+[ 18:632011] OSS: Putting process with PID 2 into queue 0
+[ 18:663315] OSS: Dispatching process with PID 2 from queue 0
+[ 18:663315] OSS: Receiving that process 2 ran for 10000 nanoseconds
+[ 18:663315] OSS: Putting process with PID 2 into queue 0
+[ 18:708552] OSS: Dispatching process with PID 2 from queue 0
+[ 18:708552] OSS: Receiving that process 2 ran for 6700 nanoseconds
+[ 18:708552] OSS: Blocking process with PID 2 for 2:387
+[ 18:708552] OSS: No processes to run
+[ 18:936469] OSS: Unblocking process with PID 5 and putting it into queue 0
+[ 18:938042] OSS: Dispatching process with PID 5 from queue 0
+[ 18:938042] OSS: Receiving that process 5 ran for 4500 nanoseconds
+[ 18:938042] OSS: Terminating process with PID 5
+[ 18:938042] OSS: No processes to run
+[ 19:219998] OSS: Generating process with PID 4 and putting it in queue 1
+[ 19:261991] OSS: Dispatching process with PID 4 from queue 1
+[ 19:261991] OSS: Receiving that process 4 ran for 3100 nanoseconds
+[ 19:261991] OSS: Not using its entire time quantum
+[ 19:261991] OSS: Putting process with PID 4 into queue 2
+[ 19:342261] OSS: Dispatching process with PID 4 from queue 2
+[ 19:342261] OSS: Receiving that process 4 ran for 2500 nanoseconds
+[ 19:342261] OSS: Putting process with PID 4 into queue 3
+[ 19:372613] OSS: Dispatching process with PID 4 from queue 3
+[ 19:372613] OSS: Receiving that process 4 ran for 1250 nanoseconds
+[ 19:372613] OSS: Putting process with PID 4 into queue 3
+[ 19:407458] OSS: Dispatching process with PID 4 from queue 3
+[ 19:407458] OSS: Receiving that process 4 ran for 1250 nanoseconds
+[ 19:407458] OSS: Putting process with PID 4 into queue 3
+[ 19:483729] OSS: Dispatching process with PID 4 from queue 3
+[ 19:483729] OSS: Receiving that process 4 ran for 1137 nanoseconds
+[ 19:483729] OSS: Terminating process with PID 4
+[ 19:483729] OSS: No processes to run
+[ 19:519998] OSS: Generating process with PID 4 and putting it in queue 0
+[ 19:525054] OSS: Dispatching process with PID 4 from queue 0
+[ 19:525054] OSS: Receiving that process 4 ran for 9900 nanoseconds
+[ 19:525054] OSS: Not using its entire time quantum
+[ 19:525054] OSS: Putting process with PID 4 into queue 0
+[ 19:620855] OSS: Dispatching process with PID 4 from queue 0
+[ 19:620855] OSS: Receiving that process 4 ran for 10000 nanoseconds
+[ 19:620855] OSS: Putting process with PID 4 into queue 0
+[ 19:691740] OSS: Dispatching process with PID 4 from queue 0
+[ 19:691740] OSS: Receiving that process 4 ran for 9600 nanoseconds
+[ 19:691740] OSS: Not using its entire time quantum
+[ 19:691740] OSS: Putting process with PID 4 into queue 0
+[ 19:701543] OSS: Dispatching process with PID 4 from queue 0
+[ 19:701543] OSS: Receiving that process 4 ran for 5100 nanoseconds
+[ 19:701543] OSS: Terminating process with PID 4
+[ 19:701543] OSS: No processes to run
+[ 19:964233] OSS: Unblocking process with PID 1 and putting it into queue 0
+[ 20: 38045] OSS: Dispatching process with PID 1 from queue 0
+[ 20: 38045] OSS: Receiving that process 1 ran for 10000 nanoseconds
+[ 20: 38045] OSS: Putting process with PID 1 into queue 0
+[ 20: 69440] OSS: Dispatching process with PID 1 from queue 0
+[ 20: 69440] OSS: Receiving that process 1 ran for 3300 nanoseconds
+[ 20: 69440] OSS: Terminating process with PID 1
+[ 20: 69440] OSS: No processes to run
+[ 20:188411] OSS: Unblocking process with PID 0 and putting it into queue 1
+[ 20:227888] OSS: Dispatching process with PID 0 from queue 1
+[ 20:227888] OSS: Receiving that process 0 ran for 5000 nanoseconds
+[ 20:227888] OSS: Putting process with PID 0 into queue 2
+[ 20:227888] OSS: Unblocking process with PID 3 and putting it into queue 1
+[ 20:243258] OSS: Dispatching process with PID 3 from queue 1
+[ 20:243258] OSS: Receiving that process 3 ran for 2100 nanoseconds
+[ 20:243258] OSS: Terminating process with PID 3
+[ 20:279500] OSS: Dispatching process with PID 0 from queue 2
+[ 20:279500] OSS: Receiving that process 0 ran for 1750 nanoseconds
+[ 20:279500] OSS: Blocking process with PID 0 for 4:463
+[ 20:279500] OSS: No processes to run
+[ 20:339998] OSS: Generating process with PID 1 and putting it in queue 0
+[ 20:365661] OSS: Dispatching process with PID 1 from queue 0
+[ 20:365661] OSS: Receiving that process 1 ran for 7700 nanoseconds
+[ 20:365661] OSS: Blocking process with PID 1 for 0:299
+[ 20:365661] OSS: No processes to run
+[ 20:365960] OSS: Unblocking process with PID 1 and putting it into queue 0
+[ 20:368856] OSS: Dispatching process with PID 1 from queue 0
+[ 20:368856] OSS: Receiving that process 1 ran for 10000 nanoseconds
+[ 20:368856] OSS: Putting process with PID 1 into queue 0
+[ 20:401975] OSS: Dispatching process with PID 1 from queue 0
+[ 20:401975] OSS: Receiving that process 1 ran for 8900 nanoseconds
+[ 20:401975] OSS: Not using its entire time quantum
+[ 20:401975] OSS: Putting process with PID 1 into queue 0
+[ 20:401975] OSS: Shutting down
+[ 20:401975] OSS: Average turnaround time: 0:54715
+[ 20:401975] OSS: Average wait time: 6:61489
+[ 20:401975] OSS: Average sleep time: 3:91577
+[ 20:401975] OSS: Total idle time: 8:632419
